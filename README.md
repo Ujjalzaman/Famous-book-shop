@@ -1,6 +1,20 @@
 # Getting Started with Create React App
+-What i Did in this project?
+## live link 
+https://authentication-recap-96e17.web.app/
+
+-login(google & create or signup)
+-responsive
+-order
+-checkout
+-secure
+-myorder
+this is simple book shop ecommerce project.where a user can see random books of radom publisher also they can order those books. but the user must have to login.
+in authenticaton i have use firebase, database mongodb, backend express
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##using instrction
+sign in using google and then purase something after than check out the product. after then you can upload any product or delete .
 
 ## Available Scripts
 
