@@ -1,0 +1,21 @@
+.image-div img{
+    background-image: cover;
+    width: 150px;
+    border-radius: 5px;
+    padding:20px;
+    border:1px solid gray;
+}
+.desc{
+    line-height: 15px;
+}
+.books-div{
+    padding:10px 20px;
+}
+
+.product-div-style{
+    width: 250px;
+    height: 450px;
+    border-radius: 5px;
+    padding:0px 40px;
+}
+

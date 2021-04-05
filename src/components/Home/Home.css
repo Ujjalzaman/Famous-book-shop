@@ -1,0 +1,30 @@
+.div-style{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* border:1px solid gray; */
+}
+
+.searchField{
+    padding: 20px 0px;
+}
+#input-style{
+    /* padding-top: 50px; */
+    height: 35px;
+    width: 50%;
+    background-color: azure;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: 1px solid gray;
+}
+/* input[type=text] {
+    border: none;
+    padding:15px;
+}
+
+input[type=text]:focus {
+    border: none;
+    outline: none; */
+/* } */
+  
